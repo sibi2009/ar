@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>sample</title>
+<style>
+#one{
+  color:blue;
+  text-align:center;
+}
+#two
+{
+  color:green;
+  text-align:left corner;
+}
+p{
+colou:blue;
+font-size:20px;
+}
+</style>
+<body>
+</head>
+<h1 id="one">hi</h1>
+<h1 id="two>boys</h1>
+<p>computer lab</p>
+</body>
+</html>

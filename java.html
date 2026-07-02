@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+console.log("welcome to javascript");
+</script>
+</body>
+</html>
